@@ -63,7 +63,7 @@ The dashboard helps analyze key healthcare metrics such as admissions, billing, 
 
 <h2>📊 Key Trends</h2>
 <p align="center">
-  <img src="images/key-trends.png" width="800"/>
+  <img src="images/Key Trends.png" width="800"/>
 </p>
 
 <h2>👥 Patient Demographics</h2>

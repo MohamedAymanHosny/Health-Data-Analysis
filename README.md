@@ -60,15 +60,19 @@ The dashboard helps analyze key healthcare metrics such as admissions, billing, 
 ## 📸 Dashboard Screenshots
 
 ## 👥 Patient Demographics
+
 ![Patient Demographics](https://raw.githubusercontent.com/MohamedAymanHosny/Health-Data-Analysis/main/Patients%20Demographics.png)
 
 ## 📊 Key Trends
+
 ![Key Trends](https://raw.githubusercontent.com/MohamedAymanHosny/Health-Data-Analysis/main/Key%20Trends.png)
 
 ## 💰 Treatment & Cost Analysis
+
 ![Treatment & Cost](https://raw.githubusercontent.com/MohamedAymanHosny/Health-Data-Analysis/main/Treatment%20%26%20Cost.png)
 
 ## 📋 Relationship Table
+
 ![Relation Table](https://raw.githubusercontent.com/MohamedAymanHosny/Health-Data-Analysis/main/Relation_Table.png)
 ---
 
@@ -86,7 +90,6 @@ The dashboard helps analyze key healthcare metrics such as admissions, billing, 
 
 ## 📬 Contact
 
-**Your Name**
 [linkedin.com/in/mohamed-ayman-9746b0395]
 
 ---

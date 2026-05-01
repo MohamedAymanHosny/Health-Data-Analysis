@@ -68,7 +68,7 @@ The dashboard helps analyze key healthcare metrics such as admissions, billing, 
 
 <h2>👥 Patient Demographics</h2>
 <p align="center">
-  <img src="file:///C:/Users/10/Downloads/HealthData%20Analysis/Patients%20Demographics.png" width="800"/>
+  <img src="file:///C:/Users/10/Downloads/HealthData%20Analysis/Patients%20Demographics.png"/>
 </p>
 
 <h2>💰 Treatment & Cost</h2>

@@ -1,4 +1,4 @@
-# 🏥 National Health Data Analysis Dashboard
+<h1 align="center">🏥 National Health Data Analysis Dashboard</h1>
 
 ## 📌 Overview
 
